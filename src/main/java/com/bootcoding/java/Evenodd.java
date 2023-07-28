@@ -1,3 +1,5 @@
+package com.bootcoding.java;
+
 public class Evenodd {
     public static void main(String[] args) {
         int a = 4;
