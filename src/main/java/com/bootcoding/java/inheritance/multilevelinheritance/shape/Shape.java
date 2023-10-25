@@ -7,4 +7,6 @@ public class Shape {
         Rectangle rectangle= new Rectangle();
              rectangle.getArea();
     }
+
+
 }
